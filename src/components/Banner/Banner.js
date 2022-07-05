@@ -41,7 +41,7 @@ function Banner() {
               fontFamily: "Montserrat",
             }}
           >
-            Crypto Hunter
+            CryptoMit
           </Typography>
           <Typography
             variant="subtitle2"
@@ -52,6 +52,7 @@ function Banner() {
             }}
           >
             Get all the Info regarding your favorite Crypto Currency
+            Designed by Ramit for all crypto investors out there !
           </Typography>
         </div>
         <Carousel />
